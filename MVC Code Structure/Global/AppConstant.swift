@@ -113,7 +113,7 @@ enum LoginType:String{
 var isSandBox = true
 let  aGoogleKey:String = {
     if isSandBox {
-        return "AIzaSyAzjOrF7cFhgQqzwxUkvnWyDm7HlvKhEDY"
+        return "PestYourKey"
     } else {
         return " "
     }
@@ -131,7 +131,7 @@ let  aGoogleBrowserKey:String = {
 let  payStackPublicKey:String = {
     
     if isSandBox {
-        return "pk_test_1fa1babdcbc5eff4c619967cc1f9bae106a015ac"
+        return "Pestyour key"
     }else{
         return " "
     }
