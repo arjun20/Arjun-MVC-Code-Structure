@@ -121,7 +121,7 @@ let  aGoogleKey:String = {
 let  aGoogleBrowserKey:String = {
     
     if isSandBox {
-        return "AIzaSyCfreRgNu2wkqaCNYimT-orXg6zLBxeT3E"
+        return "PestYourKeyHere"
     } else {
         return " "
     }
